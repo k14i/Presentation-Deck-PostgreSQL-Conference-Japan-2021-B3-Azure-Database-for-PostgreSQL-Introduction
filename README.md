@@ -1,0 +1,2 @@
+# Presentation-Deck-PostgreSQL-Conference-Japan-2021-B3-Azure-Database-for-PostgreSQL-Introduction
+Azure Database for PostgreSQL 入門 (PostgreSQL Conference Japan 2021) https://www.postgresql.jp/jpug-pgcon2021  Microsoft Azure では Azure Database for PostgreSQL という形で PostgreSQL を提供している。  本セッションは、本サービスに興味がある方を対象に Azure 特有のポイントを主軸に解説し、検討の材料としていただくことを目的としている。トピックとしては、概要、既存DBからのマイグレーション、Azure におけるパフォーマンス最適化について解説する。
